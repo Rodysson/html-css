@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* Todas as demais medias */
+
+/* Typical Devide Breakpoints
+Pequenas telas: até 600px
+Celula: 320px — 480p
+Tablet: 768 x 1024
+Desktop: note: 1366 x 768 ; pc: 1920 x 1080
+Grandes telas: 1201px and more
+*/
+
+@media print {
+
+}
